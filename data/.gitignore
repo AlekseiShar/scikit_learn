@@ -7,6 +7,4 @@
 /telco.csv
 /white-wine.csv
 /winequality-red.csv
-data/*.csv
-data/*.txt
-.idea
+
