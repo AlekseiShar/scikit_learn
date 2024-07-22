@@ -1,0 +1,5 @@
+outs:
+- md5: 933ca4c0ef6ad87ab14898621833b266
+  size: 38447
+  hash: md5
+  path: boston.csv

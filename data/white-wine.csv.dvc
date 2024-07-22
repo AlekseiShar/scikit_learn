@@ -1,0 +1,5 @@
+outs:
+- md5: 99af08f55f18ab314a097aba3f723f38
+  size: 321104
+  hash: md5
+  path: white-wine.csv

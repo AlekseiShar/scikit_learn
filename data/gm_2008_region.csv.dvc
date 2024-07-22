@@ -1,0 +1,5 @@
+outs:
+- md5: fd6c67b240212e5f72ac61b2bb202e95
+  size: 12751
+  hash: md5
+  path: gm_2008_region.csv

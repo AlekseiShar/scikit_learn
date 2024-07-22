@@ -1,0 +1,12 @@
+/auto.csv
+/boston.csv
+/churn.csv
+/diabetes.csv
+/gm_2008_region.csv
+/house-votes-84.csv
+/telco.csv
+/white-wine.csv
+/winequality-red.csv
+data/*.csv
+data/*.txt
+.idea

@@ -1,0 +1,5 @@
+outs:
+- md5: 173f9a611e0d439a5285c299a3cdc4ad
+  size: 16594
+  hash: md5
+  path: churn.csv
